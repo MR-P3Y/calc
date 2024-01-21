@@ -1,0 +1,61 @@
+c:\users\m2\documents\visual studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\m2\documents\visual studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\m2\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\m2\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+c:\users\m2\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+c:\users\m2\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\m2\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\m2\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+c:\users\m2\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+c:\users\m2\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.about.resources
+c:\users\m2\documents\visual studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\ResGen.read.4.tlog
+E:\M2\Program\C#\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+E:\M2\Program\C#\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+E:\M2\Program\C#\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\M2\Program\C#\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\M2\Program\C#\Calculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\M2\Program\C#\Calculator\Calculator\obj\x86\Debug\Calculator.about.resources
+E:\M2\Program\C#\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+E:\M2\Program\C#\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+E:\M2\Program\C#\Calculator\Calculator\obj\x86\Debug\ResGen.read.1.tlog
+E:\M2\Program\C#\Calculator\Calculator\obj\x86\Debug\ResGen.read.4.tlog
+E:\M2\Program\C#\Calculator\Calculator\obj\x86\Debug\ResGen.write.1.tlog
+F:\d\narmafzar\narmafzar\Program\C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+F:\d\narmafzar\narmafzar\Program\C#\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+F:\d\narmafzar\narmafzar\Program\C#\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+F:\d\narmafzar\narmafzar\Program\C#\Calculator\Calculator\bin\Debug\Calculator.exe
+F:\d\narmafzar\narmafzar\Program\C#\Calculator\Calculator\bin\Debug\Calculator.pdb
+F:\d\narmafzar\narmafzar\Program\C#\Calculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\d\narmafzar\narmafzar\Program\C#\Calculator\Calculator\obj\x86\Debug\Calculator.about.resources
+F:\d\narmafzar\narmafzar\Program\C#\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+F:\d\narmafzar\narmafzar\Program\C#\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+F:\d\narmafzar\narmafzar\Program\C#\Calculator\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\d\narmafzar\narmafzar\Program\C#\Calculator\Calculator\obj\x86\Debug\ResGen.read.1.tlog
+F:\d\narmafzar\narmafzar\Program\C#\Calculator\Calculator\obj\x86\Debug\ResGen.read.4.tlog
+F:\d\narmafzar\narmafzar\Program\C#\Calculator\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\d\narmafzar\narmafzar\Program\C#\Calculator\Calculator\obj\x86\Debug\ResGen.write.1.tlog
+E:\MZ\MZ\Programms\Program\C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\MZ\MZ\Programms\Program\C#\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+E:\MZ\MZ\Programms\Program\C#\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+E:\MZ\MZ\Programms\Program\C#\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\MZ\MZ\Programms\Program\C#\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\MZ\MZ\Programms\Program\C#\Calculator\Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\MZ\MZ\Programms\Program\C#\Calculator\Calculator\obj\x86\Debug\Calculator.about.resources
+E:\MZ\MZ\Programms\Program\C#\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+E:\MZ\MZ\Programms\Program\C#\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+E:\MZ\MZ\Programms\Program\C#\Calculator\Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\MZ\MZ\Programms\Program\C#\Calculator\Calculator\obj\x86\Debug\ResGen.read.1.tlog
+E:\MZ\MZ\Programms\Program\C#\Calculator\Calculator\obj\x86\Debug\ResGen.read.4.tlog
+E:\MZ\MZ\Programms\Program\C#\Calculator\Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\MZ\MZ\Programms\Program\C#\Calculator\Calculator\obj\x86\Debug\ResGen.write.1.tlog
+D:\PEYMOON\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\PEYMOON\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\PEYMOON\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\PEYMOON\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.AssemblyReference.cache
+D:\PEYMOON\Calculator\Calculator\obj\x86\Debug\Calculator.about.resources
+D:\PEYMOON\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+D:\PEYMOON\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+D:\PEYMOON\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.cache
+D:\PEYMOON\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\PEYMOON\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+D:\PEYMOON\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
